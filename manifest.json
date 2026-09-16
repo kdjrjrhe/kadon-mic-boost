@@ -1,0 +1,12 @@
+{
+  "id": "kadon.mic.boost",
+  "spec": 3,
+  "version": "1.0.0",
+  "type": "plugin",
+  "display": {
+    "name": "Kadon Mic Boost",
+    "description": "100dB mic boost with panning, stereo width, and VU meter. Clean gain with soft clipping protection.",
+    "authors": [{ "name": "kdjrjrhe", "id": "0" }]
+  },
+  "main": "index.js"
+}
